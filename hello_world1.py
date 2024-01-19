@@ -1,1 +1,5 @@
 print("coding man")
+print("coding dude")
+print("python work")
+print("coding work")
+print("git work")
